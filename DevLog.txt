@@ -1,0 +1,73 @@
+06012024
+- Thinking about the concept.
+-- What is the project for?
+---> To help me better organize and spark motivation to do projects and daily tasks.
+-- What do I need to cover/include in the project? aka What features I would like this project to have?
+---> STEP_UP - place to log my daily steps, so that in a fun way I am motivated to walk more
+---> TASK_POP - place where I could queue tasks that need to be done / I would like to do
+---> STONE_WALL - something like a planner where the main important things are planned, so that they are not overwritten by any other task which pops up
+--->>> CHARCOAL - overlay to the STONE_WALL, which could contain things that are out of the ordinary and can overwrite the routine
+--->>> MOSS - events which do not take any time, like taking vitamin pills
+---> BACK_VIEW - overview of the tasks completion
+---> PROFILE - should include pic/avatar which will be used in the STEP_UP
+---> MOOD_PALETTE - tracker for the mood (long press - select emoji, short - open dialogue window and add detail, I guess the reason for the feeling)
+---> SETTING - private, public, friends; main color; theme dark/light
+
+- the information should be private until ready
+- think that the profile creation should be only possible using the Google account till then
+
+- STEP_UP details:
+-- think that it should be something like a light RPG where the rewards enable you to get premium content
+-- mobs can be defined by task completion/solving puzzle/confirmation of completion of some exercise
+-- basic maps, maps which can be found, road, cross_roads/dead_end (return also needs steps); map could be inspired by the AlchemyPotionGame: overall dark, limited visibility, fixed spawns, respawn; the map should be huge, including taverns where people can meet/greet/chat about the map;
+
+- premium content:
+-- like always it should be something that is not available just for anyone
+-- example different shape of the stone_wall, new color of the STONE_WALL
+
+- well monetization is needed so when I look at how the games I am playing impact me
+-- battle pass could be optional, there could be a rare item that would unlock the battle pass, even if it was in the past (like a golden enchanted apple)
+-- GOLDEN_APPLE_KEY - unlock the selected battle pass for the specific timeframe so that the ones who puchased the battle pass are not as limited and do not need to rush the progression once GAK is activated
+
+CONCLUSION:
+//TODO - 001 - launch web
+//TODO - 002 - * HTML, CSS, JS - pre-main - should include an icon for the app (envision S on the SPARK emoji) - could be animated using .js to overlay animation
+//TODO - 003 - * HTML, CSS - main - without any functionality
+//TODO - 004 - * database
+//TODO - 005 - DTB - connect the project to the dtb
+//TODO - 006 - * DTB - mock admin && user
+//TODO - 007 - * HTML - STEP_UP01 - log steps field
+//TODO - 008 - JS - STEP_UP01 - log steps field
+//TODO - 009 - * HTML - BACK_VIEW && BACK_VIEW_STEPS
+//TODO - 010 - JS - steps should reflect in the BACK_VIEW_STEPS
+
+The above conclusion should be the first step. After that, I should come back and add new todos.
+small steps for the project, big step for me :P
+
+07012024
+PROGRESSION
+//TODO - 001 - COMPLETE
+//TODO - 002 - COMPLETE (preparation for animation complete not doing that now)
+//TODO - 003 - COMPLETE
+//TODO - 004 - * database
+//TODO - 005 - DTB - connect the project to the dtb
+//TODO - 006 - * DTB - mock admin && user
+//TODO - 007 - * HTML - STEP_UP01 - log steps field
+//TODO - 008 - JS - STEP_UP01 - log steps field
+//TODO - 009 - * HTML - BACK_VIEW && BACK_VIEW_STEPS
+//TODO - 010 - JS - steps should reflect in the BACK_VIEW_STEPS
+
+15012024
+Well, realised that I would like to use the app in my phone, so started learning how Android Studio (AS) works.
+I guess, I need JAVA for it.
+
+Device Manager
+Samsung Galaxy A54 5G => 1080 x 2340 pixels; 6.4 inches
+Samsung Galaxy Tab8+ => 1752 x 2800 pixels; 12.4 inches
+
+17012024
+Seems like starting project from repo is not going to be great.
+Starting new project in the AS with some implemented actions.
+
+C++, no thanks... So I was advised to go with flutter,...
+... so here I am trying to create a font.
