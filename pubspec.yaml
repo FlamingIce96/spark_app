@@ -83,14 +83,14 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
 
-  fonts:
-  - family: Roboto
-    fonts:
-    - asset: assets/fonts/Roboto-Regular.ttf
-
-  - family: RobotoCondensed
-    fonts:
-      - asset: assets/fonts/RobotoCondensed-Regular.ttf
+#  fonts:
+#  - family: Roboto
+#    fonts:
+#    - asset: assets/fonts/Roboto-Regular.ttf
+#
+#  - family: RobotoCondensed
+#    fonts:
+#      - asset: assets/fonts/RobotoCondensed-Regular.ttf
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

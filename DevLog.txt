@@ -71,3 +71,9 @@ Starting new project in the AS with some implemented actions.
 
 C++, no thanks... So I was advised to go with flutter,...
 ... so here I am trying to create a font.
+
+18012024
+- yesterday I was able to make app running on my pone using USB, very cool
+- gave up to change font, will work on changing it in a future
+- tomorrow should reevaluate //TODOs
+- today I tried to add side navigation menu - moc menu added
