@@ -77,3 +77,8 @@ C++, no thanks... So I was advised to go with flutter,...
 - gave up to change font, will work on changing it in a future
 - tomorrow should reevaluate //TODOs
 - today I tried to add side navigation menu - moc menu added
+
+19012024
+added homepage, but not functional
+so the //todos are still pending for future
+my closes goal is to have sandwich menu bar accessible on all pages
