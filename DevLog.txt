@@ -82,3 +82,7 @@ C++, no thanks... So I was advised to go with flutter,...
 added homepage, but not functional
 so the //todos are still pending for future
 my closes goal is to have sandwich menu bar accessible on all pages
+
+20012024
+not sure what I did.. should go back and create a clearer vision of the visuals
+- settings added, few visual changes
